@@ -8,7 +8,7 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy_diy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_海兔影院","name":"影视 | 海兔影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海兔影院.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"起飞 | 欧乐影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐影院[飞].js"},
-{"key":"drpy_js_唐人街影视[飞]","name":"起飞 | 唐人街影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/唐人街影视[飞].js"},
+// {"key":"drpy_js_唐人街影视[飞]","name":"起飞 | 唐人街影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/唐人街影视[飞].js"},
 {"key":"drpy_js_小宝影院[飞]","name":"起飞 | 小宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
 {"key":"drpy_js_独播库[飞]","name":"起飞 | 独播库[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库[飞].js"},
 
@@ -30,6 +30,8 @@
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
+{"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
+{"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"drpy_js_voflix","name":"影视 | voflix[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/voflix.js"},
@@ -90,7 +92,7 @@
 {"key":"drpy_js_影视之家[V2]","name":"影视 | 影视之家[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视之家[V2].js"},
 {"key":"drpy_js_悠久影院","name":"影视 | 悠久影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/悠久影院.js"},
 {"key":"drpy_js_中国人线上看","name":"影视 | 中国人线上看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/中国人线上看.js"},
-{"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
+// {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
 {"key":"drpy_js_cokemv[V2]","name":"影视 | cokemv[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv[V2].js"},
 
@@ -163,8 +165,6 @@
 {"key":"drpy_js_异世界动漫漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
 {"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
 {"key":"drpy_js_爱看机器人","name":"影视 | 爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/爱看机器人.js"},
-{"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
-{"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_139影视","name":"影视 | 139影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/139影视.js"},
 {"key":"drpy_js_348电影网","name":"影视 | 348电影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/348电影网.js"},
 {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4K电影网.js"},
