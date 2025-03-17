@@ -25,11 +25,12 @@
 {"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"欧乐","name":"欧乐🪜","type": 3, "api": "csp_Olevod","searchable": 1,"quickSearch": 1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js"},
-{"key":"低端xptv","name":"低端影视","type":3,"api":"csp_ddys","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"},
-{"key":"独播库xptv","name":"独播库","type":3,"api":"csp_duboku","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"},
-{"key":"厂长xptv","name":"厂长资源","type":3,"api":"csp_czzy","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"},
-{"key":"哔滴xptv","name":"哔滴影视","type":3,"api":"csp_bde4","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"},
+  
+//{"key":"欧乐","name":"欧乐🪜","type": 3, "api": "csp_Olevod","searchable": 1,"quickSearch": 1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js"},
+//{"key":"低端xptv","name":"低端影视","type":3,"api":"csp_ddys","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"},
+//{"key":"独播库xptv","name":"独播库","type":3,"api":"csp_duboku","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"},
+//{"key":"厂长xptv","name":"厂长资源","type":3,"api":"csp_czzy","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"},
+//{"key":"哔滴xptv","name":"哔滴影视","type":3,"api":"csp_bde4","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"},
 
 {
   "key": "360资源",
